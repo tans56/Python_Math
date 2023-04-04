@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c069749-9080-40a0-9dc4-71783b048e52" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../Chap03/ezen01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap03/ezen02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap03/ezen03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap03/ezen04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap03/ezen05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap03/ezen06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap03/ezen07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ezen01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ezen02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ezen03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ezen04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ezen05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ezen06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ezen07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap05/earth01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap05/earth02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap05/earth03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap05/earth04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap05/earth05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap06/earth01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap06/earth02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap06/earth03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap07/earth01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chap07/earth02.py" afterDir="false" />
-    </list>
+    <list default="true" id="5c069749-9080-40a0-9dc4-71783b048e52" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,16 +190,5 @@
       <updated>1678255903079</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
