@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17608428-700b-4e78-8449-6f46147f5b36" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap03/ezen01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap03/ezen02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap03/ezen03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap03/ezen04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap03/ezen05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap03/ezen06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap03/ezen07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap04/back.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap04/ezen01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap04/ezen02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap04/ezen03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap04/ezen04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap04/ezen05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap04/ezen06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap04/ezen07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap04/front.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap05/earth01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap05/earth02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chap07/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="earth02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
