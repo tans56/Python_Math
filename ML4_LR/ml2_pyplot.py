@@ -56,28 +56,28 @@ import numpy as np
 '''
 
 plt.figure(figsize=(6, 8))
-#plt.subplot(2, 1, 1)
-#plt.subplot(2, 1, 2)
-
+# plt.subplot(2, 1, 1)
+# plt.subplot(2, 1, 2)
+#
 # plt.subplot(2, 2, 1)
 # plt.subplot(2, 2, 2)
 # plt.subplot(2, 2, 3)
 # plt.subplot(2, 2, 4)
-
+#
 # plt.subplot(2, 1, 1)
 # plt.subplot(2, 2, 3)
 # plt.subplot(2, 2, 4)
 
-plt.subplot(1, 2, 1)
-plt.plot([0.1, 0.3, 0.5])           # x값 [0, 1, 2]에 대응하는 y값을 선 그래프 그림
-
-plt.subplot(3, 2, 2)
-plt.bar([1, 2, 3], [3, 2, 1])       # x값 [1, 2, 3]에 대응하는 y값 [3, 2, 1]을 막대그래프로 그림
-
-plt.subplot(3, 2, 4)
-plt.plot([4, 1, -3])
-
-plt.subplot(3, 2, 6)
-plt.scatter([1, 2, 3, 4, 5], [5, 3, 4, 2, 1])
-
-plt.show()
+# plt.subplot(1, 2, 1)
+# plt.plot([0.1, 0.3, 0.5])           # x값 [0, 1, 2]에 대응하는 y값을 선 그래프 그림
+#
+# plt.subplot(3, 2, 2)
+# plt.bar([1, 2, 3], [3, 2, 1])       # x값 [1, 2, 3]에 대응하는 y값 [3, 2, 1]을 막대그래프로 그림
+#
+# plt.subplot(3, 2, 4)
+# plt.plot([4, 1, -3])
+#
+# plt.subplot(3, 2, 6)
+# plt.scatter([1, 2, 3, 4, 5], [5, 3, 4, 2, 1])
+#
+# plt.show()
